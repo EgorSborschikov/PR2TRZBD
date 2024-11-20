@@ -4,9 +4,9 @@
 ###МДК 11.01 Технология разработки и защиты баз данных
 
 Вариант № 12
-<image src="/home/egor/Documents/PR2/primer1.jpg" alt="Пример1">
-<image src="/home/egor/Documents/PR2/primer2.jpg" alt="Пример2">
-<image src="/home/egor/Documents/PR2/primer3.jpg" alt="Пример3">
+<image src="/home/egor/Documents/PR2/primer1.png" alt="Пример1">
+<image src="/home/egor/Documents/PR2/primer2.png" alt="Пример2">
+<image src="/home/egor/Documents/PR2/primer3.png" alt="Пример3">
 
 Скрипт запроса:
 ``` sql
